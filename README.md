@@ -1,6 +1,6 @@
 # Hey there! I'm Pynthamil ʕ•́ᴥ•̀ʔっ✨  
 
-<div style="display:inline-block;">
+<div style="display:flex;">
 <div align="left">
  🎓 CS Student at VIT Vellore 🏫💻  
 🐍 Secretly addicted to coding... but shhh! 🤫💙  
