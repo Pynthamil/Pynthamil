@@ -4,6 +4,9 @@
 🚀 Building AI & web projects to make life ✨ easier & smarter ✨  
 🌱 Always learning, always experimenting—because tech is magic! 🔮💡  
 
+<img align="right" height="150" src="https://i.pinimg.com/736x/19/a9/4f/19a94f17b0d780cc54311aa378321483.jpg"/>
+
+
 ###
 
  <div align="left">
@@ -15,10 +18,6 @@
   <a href="https://www.linkedin.com/in/pynthamil-pavendan-55795228a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" /></a>
  </div>
  
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/736x/19/a9/4f/19a94f17b0d780cc54311aa378321483.jpg"/>
-
 ###
 
 # 💻 Tech Stack:
