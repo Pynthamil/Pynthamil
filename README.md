@@ -5,7 +5,7 @@
 🌱 Always learning, always experimenting—because tech is magic! 🔮💡  
 
 ###
-
+<br>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img href="https://instagram.com/pynn981"src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -17,7 +17,6 @@
 
 ###
 
-<br/> 
 <img align="right" height="150" src="https://i.pinimg.com/736x/19/a9/4f/19a94f17b0d780cc54311aa378321483.jpg"  />
 
 ###
