@@ -15,7 +15,7 @@
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://www.linkedin.com/in/pynthamil-pavendan-55795228a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" /></a>
  </div>
- <img align="right" height="150" src="https://i.pinimg.com/736x/19/a9/4f/19a94f17b0d780cc54311aa378321483.jpg" style="margin-top: 15px;"/>
+ <img align="right" height="150" src="https://i.pinimg.com/736x/19/a9/4f/19a94f17b0d780cc54311aa378321483.jpg"/>
 </div>
 
 ###
