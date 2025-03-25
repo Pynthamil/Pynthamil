@@ -1,17 +1,9 @@
 # Hey there! I'm Pynthamil ʕ•́ᴥ•̀ʔっ✨  
 
-<div style="display:flex;">
-<div align="left">
  🎓 CS Student at VIT Vellore 🏫💻  
 🐍 Secretly addicted to coding... but shhh! 🤫💙  
 🚀 Building AI & web projects to make life ✨ easier & smarter ✨  
 🌱 Always learning, always experimenting—because tech is magic! 🔮💡
-</div>
-
- <div align="right">
-  <img height="150" src="https://i.pinimg.com/736x/19/a9/4f/19a94f17b0d780cc54311aa378321483.jpg"/>
- </div>
- </div>
 
 ###
 
