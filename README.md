@@ -4,7 +4,7 @@
 🚀 Building AI & web projects to make life ✨ easier & smarter ✨  
 🌱 Always learning, always experimenting—because tech is magic! 🔮💡  
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/19/a9/4f/19a94f17b0d780cc54311aa378321483.jpg"/>
+<img height="150" src="https://i.pinimg.com/736x/19/a9/4f/19a94f17b0d780cc54311aa378321483.jpg"/>
 
 
 ###
