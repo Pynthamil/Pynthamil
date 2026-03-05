@@ -9,6 +9,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5f5,100:f5d0e8&height=80&section=footer&reversal=true" width="100%"/>
 
+<br/>
+<br/>
+
 ## <img src="https://github.com/user-attachments/assets/734168e0-2acd-4542-8adc-0e064a41ae71" width="55" align="center" /> Tech Stack
 
 <div align="center">
@@ -18,6 +21,9 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5f5,100:f5d0e8&height=80&section=footer&reversal=true" width="100%"/>
+
+<br/>
+<br/>
 
 ## <img src="https://github.com/user-attachments/assets/734168e0-2acd-4542-8adc-0e064a41ae71" width="55" align="center" /> Contact
 
